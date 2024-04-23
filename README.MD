@@ -4,9 +4,6 @@ Bu repo, Laravel için Türkçe dil dosyalarını içerir. Projenin amacı, Lara
 
 > **Not:** Dil dosyaları yapay zeka kullanılarak oluşturulmuştur. Bu nedenle bazı hatalar içerebilir. Eğer bir hata bulursanız PR göndererek düzeltmeme yardımcı olabilirsiniz.
 
-## Lisans
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakınız.
-
 Laravel Turkish Language Files
 ============================
 This repo contains Turkish language files for Laravel. The purpose of the project is to provide Turkish language files created using artificial intelligence that can be easily used in projects running with Laravel.
